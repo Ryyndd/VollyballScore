@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:startColor="#5d26c4"
+        android:centerColor="#8847d5"
+        android:endColor="#d57ef5"
+        android:angle="135" />
+
+    <!-- Tambahkan ini jika ingin sudut persegi melengkung -->
+    <corners android:radius="20dp" />
+
+</shape>
